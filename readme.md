@@ -1,3 +1,3 @@
 # YelpCamp
 
-### Refactored by Ian Schoonover
+### Create a user, add fav camping grouds and rating, save for later!!
